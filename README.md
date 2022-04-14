@@ -1,5 +1,6 @@
 # Wallet Generator REST-API
 
+[![Test](https://github.com/olivmath/wallet-generator/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/olivmath/wallet-generator/actions/workflows/test.yml)
 
 ## How to start
 
@@ -15,7 +16,6 @@
 **Generate a Wallet from Seed**
 
 -   http://localhost:3333/wallet/from/your,seed,separated,by,commas
-
 
 ## How to implement [lunesjs](https://github.com/lunes-platform/lunesjs)
 
